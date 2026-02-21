@@ -1,2 +1,3 @@
-# fast-game-engine-r1pk
-A game engine project for modern development workflows
+# Fast Game Engine R1Pk
+
+A game engine project for modern development workflows.
